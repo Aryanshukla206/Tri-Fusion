@@ -64,6 +64,3 @@ For detailed step-by-step guidance, refer to the [User Manual](docs/user_manual.
   - Matplotlib (visualization)
 
 ---
-
-## **Project Structure**
-
