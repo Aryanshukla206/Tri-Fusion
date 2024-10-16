@@ -51,8 +51,6 @@
   - Matplotlib (visualization)
 ---
 
----
-
 ## **Project Author**
 **Agam Gupta**  || **Deepak** || **Aryan Shukla**  
 MSc Computer Science, Delhi University 
