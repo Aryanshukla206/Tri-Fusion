@@ -1,6 +1,6 @@
 # **Tri-Fusion Image Processing Toolkit**
 
-![Tri-Fusion Logo](path_to_logo_image) <!-- Optional: Add your project's logo here -->
+![Tri-Fusion Logo](src/logo) <!-- Optional: Add your project's logo here -->
 
 ---
 
