@@ -5,8 +5,7 @@
 </a>
 
 <br>
-(https://image-operations.onrender.com)
----
+https://image-operations.onrender.com
 
 ## **Project Overview**
 
