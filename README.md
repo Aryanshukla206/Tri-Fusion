@@ -1,17 +1,6 @@
 # **Tri-Fusion Image Processing Toolkit**
 
-<img src="src\logo" alt="Tri-Fusion Logo" width="150"/>
-
----
-
-## **Table of Contents**
-1. [Project Overview](#project-overview)
-2. [Features](#features)
-3. [Usage](#usage)
-4. [Technologies Used](#technologies-used)
-5. [Project Structure](#project-structure)
-6. [License](#license)
-7. [Contact](#contact)
+<img src="src\logo" alt="Tri-Fusion Logo" width="100"/>
 
 ---
 
@@ -49,8 +38,6 @@
 4. Adjust the operation parameters using the sliders.
 5. Preview the processed image instantly and download the result.
 
-For detailed step-by-step guidance, refer to the [User Manual](docs/user_manual.md).
-
 ---
 
 ## **Technologies Used**
@@ -62,5 +49,4 @@ For detailed step-by-step guidance, refer to the [User Manual](docs/user_manual.
   - NumPy (numerical operations)
   - Pillow (image manipulation)
   - Matplotlib (visualization)
-
 ---
