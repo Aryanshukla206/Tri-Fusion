@@ -1,6 +1,6 @@
 # **Tri-Fusion Image Processing Toolkit**
 
-![Tri-Fusion Logo](src/logo) <!-- Optional: Add your project's logo here -->
+<img src="src\logo" alt="Tri-Fusion Logo" width="150"/>
 
 ---
 
