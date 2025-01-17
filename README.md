@@ -1,17 +1,6 @@
 # **Tri-Fusion Image Processing Toolkit**
 
-<a href="https://image-operations.onrender.com" target="_blank">
-  <img src="src\logo" alt="Tri-Fusion Website" width="100"/>
-</a>
-
-<br>
-https://image-operations.onrender.com
-
-## **Project Overview**
-
-**Tri-Fusion** is a comprehensive image processing toolkit website, inspired by Rafael Gonzalez’s **Digital Image Processing (DIP)** book. Built using Python and the Streamlit framework, this toolkit offers a wide range of image processing tasks through a user-friendly interface, allowing for seamless real-time interaction with images.
-
-### **Key Objectives:**
+## **Key Objectives:**
 - Provide a web-based platform for essential image processing operations.
 - Simplify complex image processing techniques for non-expert users.
 - Offer a robust set of tools for both basic and advanced image manipulation.
